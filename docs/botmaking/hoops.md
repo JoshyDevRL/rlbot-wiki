@@ -20,8 +20,9 @@ Hoops is always played on the maps Dunk House or The Block. The dimensions for t
 
 In Hoops the goals are two rings. The rings are placed ??? uu above the ground. Their radius is 753 uu but they are connected to the wall with straight lines.
 
-Center of goals: ???
-Distance from back wall: ???
+Center of goals: y=2936
+Distance from back wall: y=2286
+Goal height: z=350
 
 ## Boost Pads
 
