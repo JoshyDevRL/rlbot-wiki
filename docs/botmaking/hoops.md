@@ -9,12 +9,12 @@ game_map = Hoops_DunkHouse
 
 ## Arena
 
-Hoops is always played on the map Dunk House. The dimensions for the arena are:
+Hoops is always played on the maps Dunk House or The Block. The dimensions for the arena are:
 
 - Floor: z=0
 - Side wall: x=2966.67
 - Back wall: y=3586
-- Ceiling: z=????
+- Ceiling: z=1825
 
 ## Goals
 
@@ -28,7 +28,26 @@ Distance from back wall: ???
 Locations of all boost pads:
 
 ```
-????
+[-2176.0, -2944.0, 8.0] (0)
+[2176.0, -2944.0, 8.0] (1)
+[0.0, -2816.0, 0.0] (2)
+[-1280.0, -2304.0, 0.0] (3)
+[1280.0, -2304.0, 0.0] (4)
+[-1536.0, -1024.0, 0.0] (5)
+[1536.0, -1024.0, 0.0] (6)
+[-512.0, -512.0, 0.0] (7)
+[512.0, -512.0, 0.0] (8)
+[-2432.0, 0.0, 8.0] (9)
+[2432.0, 0.0, 8.0] (10)
+[-512.0, 512.0, 0.0] (11)
+[512.0, 512.0, 0.0] (12)
+[-1536.0, 1024.0, 0.0] (13)
+[1536.0, 1024.0, 0.0] (14)
+[-1280.0, 2304.0, -0.0] (15)
+[1280.0, 2304.0, 0.0] (16)
+[0.0, 2816.0, 0.0] (17)
+[-2176.0, 2944.0, 8.0] (18)
+[2175.99, 2944.0, 8.0] (19)
 ```
 
 ## Ball
@@ -37,15 +56,15 @@ The radius of the ball is 98.38 uu. But other than that, the physics of the ball
 
 ## Spawning
 
-| Kickoff         | Blue                              | Orange                            |
-|-----------------|-----------------------------------|-----------------------------------|
-| Right corner    | loc: ???, yaw: 0.25 pi            | loc: ??? yaw: -0.75 pi            |
-| Left corner     | loc: ???, yaw: 0.75 pi            | loc: ???, yaw: -0.25 pi           |
-| Back right      | loc: ???, yaw: 0.5 pi             | loc: ???, yaw: -0.5 pi            |
-| Back left       | loc: ???, yaw: 0.5 pi             | loc: ???, yaw: -0.5 pi            |
-| Far back center | loc: ???, yaw: 0.5 pi             | loc: ???, yaw: -0.5 pi            |
+| Kickoff         | Blue                                   | Orange                                |
+|-----------------|----------------------------------------|---------------------------------------|
+| Right corner    | loc: (-1536.0, -3072.0), yaw: 0.25 pi  | loc: (1536.0, 3072.0), yaw: -0.75 pi  |
+| Left corner     | loc: (1536.0, -3072.0), yaw: 0.75 pi   | loc: (-1536.0, 3072.0), yaw: -0.25 pi |
+| Back right      | loc: (-256.0, -2816.0), yaw: 0.5 pi    | loc: (256.0, 2816.0), yaw: -0.5 pi    |
+| Back left       | loc: (256.0, -2816.0), yaw: 0.5 pi     | loc: (-256.0, 2816.0), yaw: -0.5 pi   |
+| Far back center | loc: (0.0, -3200.0), yaw: 0.5 pi       | loc: (0.0, 3200.0), yaw: -0.5 pi      |
 
-| Demolished      | Blue                              | Orange                            |
-|-----------------|-----------------------------------|-----------------------------------|
-| Right corner    | loc: ???, yaw: 0.5 pi             | loc: ???, yaw: -0.5 pi            |
-| Left corner     | loc: ???, yaw: 0.5 pi             | loc: ???, yaw: -0.5 pi            |
+| Demolished      | Blue                                   | Orange                                |
+|-----------------|----------------------------------------|---------------------------------------|
+| Right corner    | loc: (-1920.0, -3071.8), yaw: 0.5 pi   | loc: (1920.0, 3071.8), yaw: -0.5 pi   |
+| Left corner     | loc: (1920.0, -3071.8), yaw: 0.5 pi    | loc: (-1920.0, 3071.8), yaw: -0.5 pi  |
