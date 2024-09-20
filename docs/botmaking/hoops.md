@@ -13,8 +13,8 @@ Hoops is always played on the maps Dunk House or The Block. The dimensions for t
 
 - Floor: z=0
 - Side wall: x=2966.67
-- Back wall: y=3586
-- Ceiling: z=1825
+- Back wall: y=3581
+- Ceiling: z=1820
 
 ## Goals
 
