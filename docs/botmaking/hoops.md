@@ -11,18 +11,18 @@ game_map = Hoops_DunkHouse
 
 Hoops is always played on the maps Dunk House or The Block. The dimensions for the arena are:
 
-- Floor: z=0
+- Floor: z=0.0
 - Side wall: x=2966.67
-- Back wall: y=3581
-- Ceiling: z=1820
+- Back wall: y=3581.0
+- Ceiling: z=1820.0
 
 ## Goals
 
 In Hoops the goals are two rings. The rings are placed ??? uu above the ground. Their radius is 753 uu but they are connected to the wall with straight lines.
 
-Center of goals: y=2936
-Distance from back wall: y=2286
-Goal height: z=350
+Center of goals: y=2936.0
+Distance from back wall: y=2286.0
+Goal height: z=350.0
 
 ## Boost Pads
 
