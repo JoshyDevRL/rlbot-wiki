@@ -53,7 +53,7 @@ Locations of all boost pads:
 
 ## Ball
 
-The radius of the ball is 98.38 uu. But other than that, the physics of the ball is similar to soccer.
+The radius of the ball is 96.38 uu. But other than that, the physics of the ball is similar to soccer.
 
 ## Spawning
 
